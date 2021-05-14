@@ -1,0 +1,761 @@
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Form1.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Form2.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Form3.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Santa\LaboratorioV2\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_ID\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\Proyectos\Laboratorio_Paciente_BONO\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_ERROR\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_ERROR\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_ERROR\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Santa\Documents\Proyectos\Laboratorio_Paciente_BONO_CAPITAL\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Gerardo\Desktop\Lboratorio Central Codigo\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Santa\Documents\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Varios\CodigosGerardo\Proyectos\Laboratorio Central\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.application
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\Manuel\Desktop\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.application
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.application
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.application
+C:\Users\Manuel\Desktop\Proyectos\laboCentral\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\bin\Debug\Laboratorio2.exe.config
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\bin\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\bin\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\bin\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\RdlCompile.cache
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\RdlCompile.compiled
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Laboratorio2 imprime presupuesto\obj\x86\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\bin\Debug\Laboratorio2.exe.config
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\bin\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\bin\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\bin\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\RdlCompile.cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\RdlCompile.compiled
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB srv-desarrollo poli\obj\x86\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\bin\Debug\Laboratorio2.exe.config
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\bin\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\bin\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\bin\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\RdlCompile.cache
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\RdlCompile.compiled
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Desktop\Proyectos Listos\Laboratorio2 imprime presupuesto DB 71\obj\x86\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Documents\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Documents\Laboratorio2\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Documents\Laboratorio2\bin\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Documents\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\desarrollosistemas\Documents\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.application
+C:\Users\desarrollosistemas\Documents\Laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo3\Documents\laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Desarrollo3\Documents\laboratorio2\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\Desarrollo3\Documents\laboratorio2\bin\Debug\Laboratorio2.application
+C:\Users\Desarrollo3\Documents\laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Desarrollo3\Documents\laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\Desarrollo3\Documents\laboratorio2\obj\x86\Debug\Laboratorio2.application
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.config
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.application
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.pdb
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.cache
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\Desarrollo1\Desktop\Labo Gaby\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.application
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.config
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.pdb
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.manifest
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.application
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.pdb
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Principal.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Login.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Medicos.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Perfiles.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe.manifest
+C:\Users\marcelo\Desktop\GabrielUOM2019-laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.application
+D:\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.config
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.pdb
+D:\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.manifest
+D:\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.application
+D:\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe
+D:\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.pdb
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Principal.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Login.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Medicos.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Perfiles.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.cache
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.compiled
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe.manifest
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.application
+D:\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+D:\Mauro\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.config
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.pdb
+D:\Mauro\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe.manifest
+D:\Mauro\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.application
+D:\Mauro\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.exe
+D:\Mauro\laboratorio-50de4938c0cd\bin\Debug\Laboratorio2.pdb
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csprojResolveAssemblyReference.cache
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ABMPracticas.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.BuscarOrdenes.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_empresas.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.buscar_titular.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambio_SSC.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.EdicionIndicaciones.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Administracion.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_Cambiar_Doc.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.frm_t_tubo.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionBono.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Automatica.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Bono.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Presupuesto.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListaImpresoras.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Principal.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion_Comprobante.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Cambiar_Clave.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Impresion.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ImpresionIndicaciones.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ListarPacientes.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Login.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Medicos.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.ModificarUsuarios.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.NuevoAfiliado.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Perfiles.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.Properties.Resources.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.UsuariosABM.resources
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.csproj.GenerateResource.Cache
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.cache
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\RdlCompile.compiled
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.exe.manifest
+D:\Mauro\laboratorio-50de4938c0cd\obj\x86\Debug\Laboratorio2.application

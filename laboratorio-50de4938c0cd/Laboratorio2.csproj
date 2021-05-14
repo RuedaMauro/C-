@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1F56DADE-EED0-4946-B117-B00FD85D1E01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Laboratorio2</RootNamespace>
+    <AssemblyName>Laboratorio2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Manuel\Desktop\laboCenComp\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Labs.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7FA40ADE1B3956DC0FAAE80789013A00F77084DB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABMPracticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMPracticas.Designer.cs">
+      <DependentUpon>ABMPracticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambio_SSC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambio_SSC.Designer.cs">
+      <DependentUpon>Cambio_SSC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\etiquetas_laboratorio.cs" />
+    <Compile Include="Clases\Extraer_texto.cs" />
+    <Compile Include="DAL\ABMPracticasDAL.cs">
+      <DependentUpon>ABMPracticasDAL.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\ABMPracticasDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ABMPracticasDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarOrdenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarOrdenes.Designer.cs">
+      <DependentUpon>BuscarOrdenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buscar_empresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscar_empresas.Designer.cs">
+      <DependentUpon>buscar_empresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buscar_titular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buscar_titular.Designer.cs">
+      <DependentUpon>buscar_titular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\BonoDAL.cs">
+      <DependentUpon>BonoDAL.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\BonoDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BonoDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Impresion_AutomaticaDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Impresion_AutomaticaDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EdicionIndicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EdicionIndicaciones.Designer.cs">
+      <DependentUpon>EdicionIndicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\abreviatura.cs" />
+    <Compile Include="Entities\bono.cs" />
+    <Compile Include="Entities\cama.cs" />
+    <Compile Include="Entities\centro.cs" />
+    <Compile Include="Entities\determinaciones.cs" />
+    <Compile Include="Entities\empresas.cs" />
+    <Compile Include="Entities\estudios.cs" />
+    <Compile Include="Entities\feriados.cs" />
+    <Compile Include="Entities\icd10.cs" />
+    <Compile Include="Entities\indicaciones.cs" />
+    <Compile Include="Entities\medico.cs" />
+    <Compile Include="Entities\pacientes.cs" />
+    <Compile Include="Entities\padron.cs" />
+    <Compile Include="Entities\perfiles.cs" />
+    <Compile Include="Entities\protocolos.cs" />
+    <Compile Include="Entities\sala.cs" />
+    <Compile Include="Entities\servicios.cs" />
+    <Compile Include="Entities\tipodeorden.cs" />
+    <Compile Include="Entities\usuarios.cs" />
+    <Compile Include="especialidad.cs" />
+    <Compile Include="frm_Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Administracion.Designer.cs">
+      <DependentUpon>frm_Administracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Cambiar_Doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cambiar_Doc.Designer.cs">
+      <DependentUpon>frm_Cambiar_Doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_t_tubo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_t_tubo.Designer.cs">
+      <DependentUpon>frm_t_tubo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\GenteDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenteDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\GrupoTubosDAL.cs">
+      <DependentUpon>GrupoTubosDAL.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\GrupoTubosDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GrupoTubosDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="ImpresionBono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpresionBono.Designer.cs">
+      <DependentUpon>ImpresionBono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impresion_Automatica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impresion_Automatica.Designer.cs">
+      <DependentUpon>Impresion_Automatica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impresion_Bono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impresion_Bono.Designer.cs">
+      <DependentUpon>Impresion_Bono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impresion_Presupuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impresion_Presupuesto.Designer.cs">
+      <DependentUpon>Impresion_Presupuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImputBox.cs" />
+    <Compile Include="Installer1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer1.Designer.cs">
+      <DependentUpon>Installer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\LaboratorioDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaboratorioDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ListaImpresoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaImpresoras.Designer.cs">
+      <DependentUpon>ListaImpresoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presupuesto.cs" />
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impresion_Comprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impresion_Comprobante.Designer.cs">
+      <DependentUpon>Impresion_Comprobante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cambiar_Clave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cambiar_Clave.Designer.cs">
+      <DependentUpon>Cambiar_Clave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General.cs" />
+    <Compile Include="DAL\HospitalDataSet.cs">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\HospitalDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Impresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impresion.Designer.cs">
+      <DependentUpon>Impresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\ImpresionDAL.cs">
+      <DependentUpon>ImpresionDAL.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\ImpresionDAL.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImpresionDAL.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ImpresionIndicaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpresionIndicaciones.Designer.cs">
+      <DependentUpon>ImpresionIndicaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\LaboratorioDataSet.cs">
+      <DependentUpon>LaboratorioDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\LaboratorioDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaboratorioDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ListarPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarPacientes.Designer.cs">
+      <DependentUpon>ListarPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos.Designer.cs">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarUsuarios.Designer.cs">
+      <DependentUpon>ModificarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoAfiliado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoAfiliado.Designer.cs">
+      <DependentUpon>NuevoAfiliado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfiles.Designer.cs">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\ultima_consulta.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="UsuariosABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsuariosABM.Designer.cs">
+      <DependentUpon>UsuariosABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsuariosDataSet.cs">
+      <DependentUpon>UsuariosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UsuariosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsuariosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VariablesGlobales.cs" />
+    <EmbeddedResource Include="ABMPracticas.resx">
+      <DependentUpon>ABMPracticas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bono.rdlc" />
+    <EmbeddedResource Include="BuscarOrdenes.resx">
+      <DependentUpon>BuscarOrdenes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscar_empresas.resx">
+      <DependentUpon>buscar_empresas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buscar_titular.resx">
+      <DependentUpon>buscar_titular.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambio_SSC.resx">
+      <DependentUpon>Cambio_SSC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdicionIndicaciones.resx">
+      <DependentUpon>EdicionIndicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Administracion.resx">
+      <DependentUpon>frm_Administracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cambiar_Doc.resx">
+      <DependentUpon>frm_Cambiar_Doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_t_tubo.resx">
+      <DependentUpon>frm_t_tubo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpresionBono.resx">
+      <DependentUpon>ImpresionBono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impresion_Automatica.resx">
+      <DependentUpon>Impresion_Automatica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impresion_Bono.resx">
+      <DependentUpon>Impresion_Bono.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impresion_Presupuesto.rdlc" />
+    <EmbeddedResource Include="Impresion_Presupuesto.resx">
+      <DependentUpon>Impresion_Presupuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaImpresoras.resx">
+      <DependentUpon>ListaImpresoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impresion_Comprobante.resx">
+      <DependentUpon>Impresion_Comprobante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cambiar_Clave.resx">
+      <DependentUpon>Cambiar_Clave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impresion.resx">
+      <DependentUpon>Impresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpresionComprobante.rdlc" />
+    <EmbeddedResource Include="ImpresionIndicaciones.rdlc" />
+    <EmbeddedResource Include="ImpresionIndicaciones.resx">
+      <DependentUpon>ImpresionIndicaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarPacientes.resx">
+      <DependentUpon>ListarPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos.resx">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarUsuarios.resx">
+      <DependentUpon>ModificarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoAfiliado.resx">
+      <DependentUpon>NuevoAfiliado.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfiles.resx">
+      <DependentUpon>Perfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UsuariosABM.resx">
+      <DependentUpon>UsuariosABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DAL\ABMPracticasDAL.xsc">
+      <DependentUpon>ABMPracticasDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\ABMPracticasDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ABMPracticasDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\ABMPracticasDAL.xss">
+      <DependentUpon>ABMPracticasDAL.xsd</DependentUpon>
+    </None>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\BonoDAL.xsc">
+      <DependentUpon>BonoDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\BonoDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BonoDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\BonoDAL.xss">
+      <DependentUpon>BonoDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\GenteDAL.xsc">
+      <DependentUpon>GenteDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\GenteDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GenteDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\GenteDAL.xss">
+      <DependentUpon>GenteDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\GrupoTubosDAL.xsc">
+      <DependentUpon>GrupoTubosDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\GrupoTubosDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GrupoTubosDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\GrupoTubosDAL.xss">
+      <DependentUpon>GrupoTubosDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\HospitalDataSet.xsc">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\HospitalDataSet.xss">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\ImpresionDAL.xsc">
+      <DependentUpon>ImpresionDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\ImpresionDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ImpresionDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\ImpresionDAL.xss">
+      <DependentUpon>ImpresionDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\Impresion_AutomaticaDAL.xsc">
+      <DependentUpon>Impresion_AutomaticaDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\Impresion_AutomaticaDAL.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Impresion_AutomaticaDAL.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DAL\Impresion_AutomaticaDAL.xss">
+      <DependentUpon>Impresion_AutomaticaDAL.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\LaboratorioDataSet.xsc">
+      <DependentUpon>LaboratorioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\LaboratorioDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaboratorioDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\LaboratorioDataSet.xss">
+      <DependentUpon>LaboratorioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\LaboratorioDataSet1.xsc">
+      <DependentUpon>LaboratorioDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DAL\LaboratorioDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaboratorioDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DAL\LaboratorioDataSet1.xss">
+      <DependentUpon>LaboratorioDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Laboratorio2_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\Form2.Dog.datasource" />
+    <None Include="Properties\DataSources\Impresion_Presupuesto.datasource" />
+    <None Include="Properties\DataSources\Laboratorio2.Clases.etiquetas_laboratorio.datasource" />
+    <None Include="Properties\DataSources\Presupuesto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UsuariosDataSet.xsc">
+      <DependentUpon>UsuariosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UsuariosDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsuariosDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UsuariosDataSet.xss">
+      <DependentUpon>UsuariosDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testimonials.png" />
+    <None Include="Resources\netvibes.png" />
+    <None Include="Resources\agt_print.png" />
+    <EmbeddedResource Include="4.wav" />
+    <EmbeddedResource Include="3.wav" />
+    <EmbeddedResource Include="1.wav" />
+    <EmbeddedResource Include="2.wav" />
+    <Content Include="Labs.ico" />
+    <None Include="Resources\LogoBlanco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition">
+  <DataSources>
+    <DataSource Name="ImpresionDAL">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>f8c3b163-e689-405f-b706-38f0ae9e0095</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Fields>
+        <Field Name="Indicaciones">
+          <DataField>Indicaciones</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>ImpresionDAL</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ImpresionDAL</rd:DataSetName>
+        <rd:SchemaPath>C:\Santa\LaboratorioV2\Laboratorio2\Laboratorio2\ImpresionDAL.xsd</rd:SchemaPath>
+        <rd:TableName>Lista_Indicaciones</rd:TableName>
+        <rd:TableAdapterFillMethod />
+        <rd:TableAdapterGetDataMethod />
+        <rd:TableAdapterName />
+      </rd:DataSetInfo>
+    </DataSet>
+    <DataSet Name="DataSet2">
+      <Fields>
+        <Field Name="Comprobante_Horario_Entrega">
+          <DataField>Comprobante_Horario_Entrega</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Indicaciones_Comentarios">
+          <DataField>Indicaciones_Comentarios</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>ImpresionDAL</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ImpresionDAL</rd:DataSetName>
+        <rd:SchemaPath>C:\Santa\LaboratorioV2\Laboratorio 3\Laboratorio2\ImpresionDAL.xsd</rd:SchemaPath>
+        <rd:TableName>Laboratorio_Impresion_Mensajes</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>Laboratorio_Impresion_MensajesTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Body>
+    <ReportItems>
+      <Textbox Name="Comentario">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!Indicaciones.Value</Value>
+                <MarkupType>HTML</MarkupType>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Comentario</rd:DefaultName>
+        <Top>0.17639cm</Top>
+        <Left>0.31751cm</Left>
+        <Height>0.6cm</Height>
+        <Width>20.12125cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>0.40997in</Height>
+    <Style />
+  </Body>
+  <ReportParameters>
+    <ReportParameter Name="Indicaciones">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Paciente">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Titulo">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Telefono">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Nota_Encabezado">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Mensaje_informativo">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Usuario">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Width>8.11968in</Width>
+  <Page>
+    <PageHeader>
+      <Height>8.41375cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Textbox Name="Textbox10">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=Parameters!Titulo.Value</Value>
+                  <Style>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>0.40625cm</Top>
+          <Left>3.09564cm</Left>
+          <Height>0.6cm</Height>
+          <Width>16.70813cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox11">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>LABORATORIO</Value>
+                  <Style />
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>1.82144cm</Top>
+          <Left>3.09564cm</Left>
+          <Height>0.6cm</Height>
+          <Width>16.70812cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox12">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Fecha: </Value>
+                  <Style />
+                </TextRun>
+                <TextRun>
+                  <Value>=Now()</Value>
+                  <MarkupType>HTML</MarkupType>
+                  <Style />
+                </TextRun>
+                <TextRun>
+                  <Value> - </Value>
+                  <MarkupType>HTML</MarkupType>
+                  <Style />
+                </TextRun>
+                <TextRun>
+                  <Value>=Parameters!Usuario.Value</Value>
+                  <MarkupType>HTML</MarkupType>
+                  <Style />
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>4.72439cm</Top>
+          <Left>0.31751cm</Left>
+          <Height>0.6cm</Height>
+          <Width>20.04187cm</Width>
+          <ZIndex>2</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Image Name="Image1">
+          <Source>Embedded</Source>
+          <Value>LogoOSUOMRA</Value>
+          <Sizing>FitProportional</Sizing>
+          <Top>0.3175cm</Top>
+          <Left>0.31751cm</Left>
+          <Height>2.10394cm</Height>
+          <Width>2.24083cm</Width>
+          <ZIndex>3</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </Image>
+        <Textbox Name="Textbox13">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Indicaciones:</Value>
+                  <Style />
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>7.54871cm</Top>
+          <Left>0.23813cm</Left>
+          <Height>0.6cm</Height>
+          <Width>20.12125cm</Width>
+          <ZIndex>4</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Paciente">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>="Paciente: " + Parameters!Paciente.Value</Value>
+                  <Style />
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Paciente</rd:DefaultName>
+          <Top>5.48639cm</Top>
+          <Left>0.31751cm</Left>
+          <Height>0.6cm</Height>
+          <Width>20.12125cm</Width>
+          <ZIndex>5</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox14">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=First(Fields!Indicaciones_Comentarios.Value, "DataSet2")</Value>
+                  <MarkupType>HTML</MarkupType>
+                  <Style>
+                    <FontStyle>Normal</FontStyle>
+                    <FontFamily>Calibri</FontFamily>
+                    <FontSize>11pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                    <TextDecoration>None</TextDecoration>
+                    <Color>#000000</Color>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>6.24315cm</Top>
+          <Left>0.23813cm</Left>
+          <Height>1.12917cm</Height>
+          <Width>20.12125cm</Width>
+          <ZIndex>6</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox15">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=Parameters!Telefono.Value</Value>
+                  <Style>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>1.11561cm</Top>
+          <Left>3.09563cm</Left>
+          <Height>0.6cm</Height>
+          <Width>16.70813cm</Width>
+          <ZIndex>7</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox16">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>=Parameters!Mensaje_informativo.Value</Value>
+                  <MarkupType>HTML</MarkupType>
+                  <Style />
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox10</rd:DefaultName>
+          <Top>2.59783cm</Top>
+          <Left>0.31751cm</Left>
+          <Height>1.95017cm</Height>
+          <Width>20.04187cm</Width>
+          <ZIndex>8</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageHeader>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>2cm</LeftMargin>
+    <RightMargin>2cm</RightMargin>
+    <TopMargin>2cm</TopMargin>
+    <BottomMargin>2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <EmbeddedImages>
+    <EmbeddedImage Name="LogoOSUOMRA">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportID>285a64f6-ab40-4a08-8364-740b374c0dbb</rd:ReportID>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+</Report>
